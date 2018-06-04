@@ -1,1 +1,1 @@
-# Primera-programaci-n-Elecciones
+# Primera-programaci-n-Eleccionesthis project is based on the creation of an "application" which helps to see the results of the votes, in addition to creating, modifying and eliminating certain elements such as the provinces, political parties ..
